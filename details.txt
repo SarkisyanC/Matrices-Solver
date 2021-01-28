@@ -1,0 +1,17 @@
+t_files[0]: disclaimer_message.txt: holds a message about the program in general and how it
+				    is meant to be used -- especially concerning academic
+				    integrity violations
+
+t_files[1]: input_instructions.txt: holds information on the specifics of how to input the
+				    dimensions of the matrix.
+
+t_files[2] : input_instructions_2.txt: holds information on the specifics of how to input the
+				       coefficients of the matrix.
+t_files[3] : step_1.txt: holds information and instructions about step one of the solving
+			 process
+
+t_files[4] : step_1_b.txt: holds further information and instructions about step one of the solving
+			 process
+
+t_files[5] : step_2.txt: holds information and instructions about step two of the solving
+			 process

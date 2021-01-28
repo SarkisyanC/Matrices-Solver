@@ -1,0 +1,18 @@
+
+_______________________________________________________________
+Please input the value of the matrix coordinate when prompted
+
+Coordinates will be labled as m, n
+where m is the row number and n is the column number
+
+For example:
+	trying to input the following matrix into the program
+	
+	1 2 | 3
+	0 5 | 6
+
+	0,0: <you would input 1 here>
+	0,1: <you would input 2 here>
+	1,0: <you would input 0 here>
+	1,1: <you would input 5 here>
+______________________________________________________________

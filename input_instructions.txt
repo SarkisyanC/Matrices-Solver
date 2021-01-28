@@ -1,0 +1,21 @@
+Please input the dimensions of the matrix
+
+Remeber that the syntax mxn reffers to 
+m = # of rows and n = # of columns
+
+For example, the matrix
+	
+	1  2  3
+	2  1  0
+
+is a 2x3 matrix
+
+***************************
+please include the augmented column in these calculations
+
+ie: 
+	1 2 | 3
+	2 1 | 4
+
+would be considered 2x3 for the purposes of this query
+***************************

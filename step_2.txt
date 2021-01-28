@@ -1,0 +1,17 @@
+
+Now, all entries above and/ or bellow the pivot '1' 
+need to be reduced to '0'
+
+This is done using row opperations
+
+Since 1 x any number = that number,
+and a number - itself = 0
+
+We need to temporarily multiply the pivot '1''s row
+by the number above or below it that needs to be reduced to '0'
+
+This will make the pivot temporarily equal to the number we're reducing to '0'
+
+To finish reducing the number to 0, we need to subtract the temporarily 
+scaled row from the row with the entry needing to be reduced to '0'
+

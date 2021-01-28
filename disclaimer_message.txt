@@ -1,0 +1,14 @@
+		********************************************************
+		This program is in no way meant to be used to cheat.
+        Use this program only to check your answers
+        and improve your understanding of gauss - jordan elimination
+        especially for ungraded practice problems
+        
+        or
+        
+        if you are an instructor, tutor, or TA,
+        use this to find answers for arbitrary example problems quickly
+        
+        ie: you want to give students an arbitrary matrix to solve 
+            and no answer has been provided for this arbitray matrix you just came up with
+		*********************************************************

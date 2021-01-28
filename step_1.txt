@@ -1,0 +1,7 @@
+
+Step one: 
+	Identify the pivot in the current row
+	(find the leftmost nonzero number in this row)
+
+	Divide this number's row by the number currently in the pivot
+	(should result in a 1 in the pivot)
